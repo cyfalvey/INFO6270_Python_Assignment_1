@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*-
 #Elvira says we should put a license in here. Let's give it the ol' MPL 2.
+# Elvira is always right.
 #That way attribution is required and you'll know I did this.
 
 print("Frankly, I have no idea what I'm doing. This code is nearly 150 lines long with an if statement for every character.")
